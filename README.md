@@ -2,13 +2,14 @@
 
 Semi-Supervised Learning of Multi-Scale Graph Neural Networks for Industrial Process Fault Diagnosis
 
+## Clone
 
-## Setup
+ git clone https://github.com/seajq/SsMsGNN.git
+ 
+## Installation
 
-在开始之前，请确保你已经安装了 Python 和 pip。
+ pip install -r requirements.txt
 
-1. git clone https://github.com/seajq/SsMsGNN.git
+## Running
 
-2. pip install -r requirements.txt
-
-3. running MLF or TEN py file
+  running MLF or TEN py file directly
