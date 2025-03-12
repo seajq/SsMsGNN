@@ -4,9 +4,7 @@ Semi-Supervised Learning of Multi-Scale Graph Neural Networks for Industrial Pro
 
 ## Clone
 
-'''
-git clone https://github.com/seajq/SsMsGNN.git
-'''
+[git clone https://github.com/seajq/SsMsGNN.git]
  
 ## Installation
 
